@@ -21,5 +21,9 @@ THe Agenda is Implememtation of Model Hyperparameter Tuning.
 
 # # Gridsearch CV: best values for my hyperparameter.
 # For example:  Air Raid by Nation x for identifying hostage camps.
+# Area Sector:
+
+
+
 
 
