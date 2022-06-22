@@ -9,4 +9,4 @@ THe Agenda is Implememtation of Model Hyperparameter Tuning.
 
 
 
-
+# Criterion=the Function used to evaluate the quality of split
