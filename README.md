@@ -23,6 +23,9 @@ THe Agenda is Implememtation of Model Hyperparameter Tuning.
 # For example:  Air Raid by Nation x for identifying hostage camps.
 # Area Sector:
 # Grid Search --->Q,T,Y,K,D----> Y
+# RandomSearch CV---> T,Y
+# Random Search ---> have idea of the optimal space----> grid search ---> best hit or best hyperparamet with best accuracy.
+
 
 
 
