@@ -20,5 +20,6 @@ THe Agenda is Implememtation of Model Hyperparameter Tuning.
 # RandomSearch CV: optimized sample space---> nearby values of hyperparameter
 
 # # Gridsearch CV: best values for my hyperparameter.
+# For example:  Air Raid by Nation x for identifying hostage camps.
 
 
