@@ -5,7 +5,7 @@ THe Agenda is Implememtation of Model Hyperparameter Tuning.
 # Checking the Acuracy
 # Following Industry Approach ---> Tuning process.
 # GridSearch CV
-
+# RandomSearch CV
 
 
 
