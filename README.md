@@ -13,4 +13,6 @@ THe Agenda is Implememtation of Model Hyperparameter Tuning.
 #Max_depth=maximun depth or number of levels of individual decision tree.
 #max_features: maximun number of features considered when spliting node.
 #n_estimators: number of trees in random forest.
+# min_samples_leaf: minimun number of samples which can be stored in tree leaf.
+# min_samples_split: minimun number of samples necessary in a node to have the spliting of node.
 
