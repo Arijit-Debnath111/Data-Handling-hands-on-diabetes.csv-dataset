@@ -16,3 +16,9 @@ THe Agenda is Implememtation of Model Hyperparameter Tuning.
 # min_samples_leaf: minimun number of samples which can be stored in tree leaf.
 # min_samples_split: minimun number of samples necessary in a node to have the spliting of node.
 
+
+# RandomSearch CV: optimized sample space---> nearby values of hyperparameter
+
+# # Gridsearch CV: best values for my hyperparameter.
+
+
